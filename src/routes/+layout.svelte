@@ -4,6 +4,7 @@
 
 <div class="background"></div>
 <div class="main object-center">
+  <div class="pt-6 md:pt-16"></div>
   <slot />
 </div>
 
